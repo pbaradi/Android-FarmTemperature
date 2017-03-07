@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FarmTemperature</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_app_name"><![CDATA[Temperature & Humidity]]></string>
+    <string name="txt_temperature">Temperature(F)</string>
+    <string name="humidity">Humidity      </string>
+</resources>
